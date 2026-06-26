@@ -189,7 +189,7 @@ body {
 /* ── Portfolio list fills space; button stays at bottom ── */
 .card-body ul {
     flex: 1;
-    min-height: unset !important;   /* removes hardcoded min-height */
+    min-height: unset !important;  
     margin-bottom: 0;
     font-size: 0.82rem !important;
 }
