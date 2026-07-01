@@ -444,3 +444,11 @@ body {
     text-align: justify;
     font-size: 1rem;
 }
+.council-title{
+    text-align:center;
+    font-size:2.5rem;
+    font-weight:300;
+    color:#0f4b3a;
+    margin-bottom:40px;
+    font-family:'Cormorant Garamond',serif;
+}
